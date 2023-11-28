@@ -1,0 +1,14 @@
+{
+  "name": "day-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./mods/src/hyrule_castle.ts",
+    "lint": "eslint ./src/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
